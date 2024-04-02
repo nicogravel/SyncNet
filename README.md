@@ -17,7 +17,7 @@ In the present example:
 
 ### Background
 
-* Mean field approximation of systems at the cusp of instability (Deco et al., 2027).
+* Mean field approximation of systems at the cusp of instability (Deco et al., 2017).
 * Self-organized criticality in the dynamical working point of the brain enables optimal information encoding and computations.
 * Local phase clustering --> segregation, Global phase clustering --> integration
 
