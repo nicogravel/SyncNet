@@ -12,7 +12,7 @@ In the present example:
 <img src="https://github.com/nicogravel/SyncNet/blob/main/mwe/KuramotoSim.png" width=40%><img src="https://github.com/nicogravel/SyncNet/blob/main/mwe/KuramotoPhaseDiffDyn.png" width=50%>
 
 
-*Left:* The Kuramoto order parameter for phase relations and its standard deviation plotted  as a function of the network's global coupling. *Right:* Histogram of phase relationships (from *-pi* to *pi*) as a function of time step (procedural dependent units). The white trace corresponds to the Kuramoto order parameter (coherence in phase relations). The variability in this (spatiotemporal order) paramater it is sometimes taken as a footprint of metastability in the underlying system (black trace in right panel).
+*Left:* The Kuramoto order parameter for phase relations and its standard deviation plotted  as a function of the network's global coupling. *Right:* Histogram of phase relationships (from *-pi* to *pi*) as a function of time step (procedural dependent units). The white trace corresponds to the Kuramoto order parameter (coherence in phase relations). The variability in this (spatiotemporal order) paramater (black trace in right panel) is sometimes intrpreted as a footprint of metastabile regimes in the underlying system's dynamics.
 
 
 ### Background
